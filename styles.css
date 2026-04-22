@@ -913,6 +913,12 @@ section {
     }
 }
 
+@media (max-width: 500px) {
+    .logo-icon {
+        display: none !important;
+    }
+}
+
 @media (max-width: 480px) {
     .hero-title {
         font-size: 28px;
